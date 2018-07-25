@@ -53,11 +53,11 @@ INSTALL Di TERMUX :
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- `cd antijs`
-- `python antijs.py`
+- `cd 2019`
+- `python3 antijs.py`
 
 Di Termux :
-- `cd ar`
+- `cd 2019`
 - `python3 antijs.py`
 
 
