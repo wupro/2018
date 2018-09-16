@@ -298,8 +298,8 @@ def help():
                   "Mid「@」被標註者mid\n" + \
                   "Info「@」被標註者資訊\n" + \
                   "Nk「@」標註踢人\n" + \
-                  "Kick1「@」標註多踢\n" + \
-                  "Mybot 丟出機器友資\n" + \
+                  "踢「@」標註多踢\n" + \
+                  "出列 丟出機器友資\n" + \
                   "Status 查看狀態\n" + \
                   "Restart 重啟\n" + \
                   "Runtime 運行時間\n" + \
@@ -307,20 +307,20 @@ def help():
                   "Speed/Sp 測速\n" + \
                   "Sprespon 機器測速\n" + \
                   "Tagall 標註\n" + \
-                  "MJ 機器進群\n" + \
-                  "MB 機器退群\n" + \
-                  "MBB 莫言退群\n" + \
+                  "mj 機器進群\n" + \
+                  "mb 機器退群\n" + \
+                  "mbb 莫言退群\n" + \
                   "Leave「群名」退出該群\n" + \
                   "Ginfo 群組資訊\n" + \
-                  "Open 開網址\n" + \
-                  "Close 關網址\n" + \
+                  "ourl 開網址\n" + \
+                  "curl 關網址\n" + \
                   "群組網址\n" + \
                   "Grouplist 所有群組\n" + \
                   "Infogroup「數字」群組資訊\n" + \
                   "Infomem「數字」成員資訊\n" + \
                   "清理 清除訊息\n" + \
-                  "SR/DR已讀開/關\n" + \
-                  "R 查看已讀\n" + \
+                  "sr/dr已讀開/關\n" + \
+                  "r 查看已讀\n" + \
                   "Sider「on/off」抓已讀\n" + \
                   "Updatefoto 更改頭貼\n" + \
                   "Updategrup 更改群圖\n" + \
