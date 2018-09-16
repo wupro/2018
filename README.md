@@ -1,14 +1,7 @@
-# Arif
-BOT PROTECT PY3 ANTI JS LINE🐦FIXS UPDATE 25 JULI 2018
+
+Install Bot :
 ------
-GET TOKEN :
-------
-- `Google Chrome`
-- `http://101.255.95.249:6969`
--
-Cara Install Bot :
-------
-Di C9 SERVER/ VPS :
+ VPS :
 - `sudo apt-get update -y`
 - `sudo apt-get install git -y`
 - `sudo apt-get install python3-pip -y`
@@ -29,7 +22,7 @@ Di C9 SERVER/ VPS :
 - `cd 2019`
 - `python antijs.py`
 
-INSTALL Di TERMUX :
+TERMUX :
 - `pkg update`
 - `pkg install git`
 - `pkg install python3-pip`
@@ -50,25 +43,5 @@ INSTALL Di TERMUX :
 - `cd 2019`
 - `python3 antijs.py`
 
-Cara Menjalankan Bot Kembali :
-------
-Di C9 :
-- `cd 2019`
-- `python3 antijs.py`
-
-Di Termux :
-- `cd 2019`
-- `python3 antijs.py`
-
 
 EDITOR BY ARIFISTIFIK
-------
-- `Add My ID LINE : arifistifik`
-- `Sambil nonton youtue biar cepet paham yang blom tau. dulu aku juga gitu 😊. Youtube me : ARIFISTIFIK`
-#cuma saran bukan menggurui 😅
-#aku juga masih pekok kuadrat😊
-Thx To :
-------
-- `SEMUANYA SEMUANYA`
-
-
