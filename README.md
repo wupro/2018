@@ -18,8 +18,8 @@ Install Bot :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/arifistifik/2019`
-- `cd 2019`
+- `git clone https://github.com/wupro/2018`
+- `cd 2018`
 - `python antijs.py`
 
 TERMUX :
@@ -39,8 +39,8 @@ TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- `git clone https://github.com/arifistifik/2019`
-- `cd 2019`
+- `git clone https://github.com/wupro/2018`
+- `cd 2018`
 - `python3 antijs.py`
 
 
